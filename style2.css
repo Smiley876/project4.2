@@ -1,0 +1,15 @@
+h1{ text-decoration: underline;}
+
+nav a{text-decoration:  overline underline;
+font-size: 30px;
+padding-left: 150px;}
+a:hover{color:#ff0000;}
+
+h2::before{content:"🩺";}
+  h2{ text-decoration:dotted underline;}
+
+  .p1{float:right;}
+
+  footer{bottom:0;
+  position: sticky;
+background-color: #a7f0d7;}
